@@ -1,0 +1,1 @@
+This folder contains the built output assets for the worker "binos-properties" generated at 2026-07-05T23:01:41.702Z.
